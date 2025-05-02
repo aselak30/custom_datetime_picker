@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:custom_datetime_picker/custom_datetime_picker.dart';
+import 'package:interval_datetime_picker/interval_datetime_picker.dart';
 
 void main() {
   testWidgets('CustomDateTimePicker builds and shows time list',
