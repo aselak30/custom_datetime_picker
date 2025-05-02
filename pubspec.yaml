@@ -1,6 +1,6 @@
 name: interval_datetime_picker
 description: A customizable Flutter date-time picker with interval support.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/aselak30/interval_datetime_picker
 repository: https://github.com/aselak30/interval_datetime_picker
 environment:
