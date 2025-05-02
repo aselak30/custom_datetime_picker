@@ -1,3 +1,5 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+## [0.0.2] - 2025-05-03
+### Changed
+- Minor bug fixes.
+- Improved picker dialog layout.
+- Updated to support null safety.
