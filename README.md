@@ -8,6 +8,12 @@ A customizable Flutter **DateTime Picker** widget with support for selecting tim
 
 ---
 
+## Support
+
+If you like this project, consider supporting me:
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/aselak30)
+
 ## ✨ Features
 
 - ✅ Custom interval-based time selection (e.g., every 15 mins, 30 mins, 1 hour)
